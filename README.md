@@ -48,15 +48,12 @@
 
 ## 📊 Stats
 
-<div align="center" padding="5">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jatoapan&show_icons=true&theme=dark" height="190"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatoapan&langs_count=6&theme=dark&layout=compact" height="190"/></a>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <div style="display: flex; gap: 10px; justify-content: center;">
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jatoapan&show_icons=true&theme=dark" style="height: 190px;" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatoapan&langs_count=6&theme=dark&layout=compact" style="height: 190px;" />
+  </div>
+  <div>
+    <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=jatoapan&theme=dark&column=8&row=1&margin-w=5" style="height: 104px;" /></a>
+  </div>
 </div>
-
-<div align="center">
-  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=jatoapan&theme=dark&column=8&row=1&margin-w=5" height="104"/></a>
-</div>
-
-
-
-
