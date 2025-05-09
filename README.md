@@ -48,12 +48,20 @@
 
 ## 📊 Stats
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <div style="display: flex; gap: 10px; justify-content: center;">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jatoapan&show_icons=true&theme=dark" style="height: 190px;" /></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatoapan&langs_count=6&theme=dark&layout=compact" style="height: 190px;" />
-  </div>
-  <div>
-    <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=jatoapan&theme=dark&column=8&row=1&margin-w=5" style="height: 104px;" /></a>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=jatoapan&show_icons=true&theme=dark" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatoapan&langs_count=6&theme=dark&layout=compact" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=jatoapan&theme=dark&column=8&row=1&margin-w=5" width="800"/>
+    </td>
+  </tr>
+</table>
+
+
