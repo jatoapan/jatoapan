@@ -73,40 +73,43 @@ Throughout these projects, I have learned and applied a variety of technologies 
 
 <div align="center">
 
+<div align="center">
+
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB" height="30"/></td>
-    <td><img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white&labelColor=red" height="30"/></td>
-    <td><img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white&labelColor=%23A8B9CC" height="30"/></td>
-    <td><img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05032" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white&labelColor=red" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white&labelColor=%23A8B9CC" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05032" height="30"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717" height="30"/></td>
-    <td><img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1" height="30"/></td>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%234169E1" height="30"/></td>
-    <td><img src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=%23003B57" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%234169E1" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=%23003B57" height="30"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=%23F37626" height="30"/></td>
-    <td><img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white&labelColor=%23150458" height="30"/></td>
-    <td><img src="https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy&logoColor=white&labelColor=%23013243" height="30"/></td>
-    <td><img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=%231f77b4" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=%23F37626" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white&labelColor=%23150458" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy&logoColor=white&labelColor=%23013243" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=%231f77b4" height="30"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=%231f77b4" height="30"/></td>
-    <td><img src="https://img.shields.io/badge/ScikitLearn-black?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=%23F7931E" height="30"/></td>
-    <td><img src="https://img.shields.io/badge/Power_BI-black?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=%230076C2" height="30"/></td>
-    <td><img src="https://img.shields.io/badge/CustomTkinter-black?style=for-the-badge&logo=python&logoColor=white&labelColor=%23127BCA" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=%231f77b4" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/ScikitLearn-black?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=%23F7931E" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Power_BI-black?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=%230076C2" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/CustomTkinter-black?style=for-the-badge&logo=python&logoColor=white&labelColor=%23127BCA" height="30"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26" height="30"/></td>
-    <td><img src="https://img.shields.io/badge/XML-black?style=for-the-badge&logo=xml&logoColor=white&labelColor=%23447CCF" height="30"/></td>
-    <td><img src="https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=%23A4C639" height="30"/></td>
-    <td></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/XML-black?style=for-the-badge&logo=xml&logoColor=white&labelColor=%23447CCF" height="30"/></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=%23A4C639" height="30"/></td>
+    <td align="center" valign="middle"></td>
   </tr>
 </table>
 
 </div>
+
 
 ---
 
